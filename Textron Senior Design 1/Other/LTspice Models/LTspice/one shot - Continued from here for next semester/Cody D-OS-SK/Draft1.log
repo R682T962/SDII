@@ -1,0 +1,21 @@
+Circuit: * D:\My stuff\personal\School work\Uni 2021 Fall\Senior Design Project I\LT spice\Cody D-OS-SK\Draft1.asc
+
+.OP point found by inspection.
+
+Date: Fri Dec 17 10:45:40 2021
+Total elapsed time: 0.456 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 176164
+traniter = 176164
+tranpoints = 88083
+accept = 62096
+rejected = 25987
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1:       3 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2: 175 bytes object code size  0.0/0.0/[0.0]
+
