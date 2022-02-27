@@ -1,8 +1,9 @@
 # SDII
 Senior design 2 Textron project
 
-Project Description can be found:
+Project Description can be found (these are duplicates):
 SDII/Cooling Fan Monitor PCB Project Description.pdf
+SDII/Textron Senior Design 1/Other/Cooling Fan Monitor PCB Project Description.pdf 
 
 
 Work for each indivdual can be found in the files:
