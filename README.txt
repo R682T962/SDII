@@ -11,5 +11,9 @@ SDII/Textron Senior Design 1/Other/LTspice Models/
 SDII/Textron Senior Design 2/Other/LTspice Models/
 SDII/Textron Senior Design 2/Other/Altium/Melvin
 
+Our references and meetings:
+SDII/Journal/
+
+
 Our current Prototype/math:
 SDII/Textron Senior Design 2/Other/Current work summary/
